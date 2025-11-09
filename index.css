@@ -307,7 +307,6 @@ Hero Section
     url(chicken\ smoke.jpeg);
   background-size: cover;
   background-position: center;
-  border-radius: 0 0 2.5rem 2.5rem;
   overflow: hidden;
 }
 .hero-content {
@@ -734,3 +733,4 @@ main.page-content.active {
     right: 1.5rem;
   }
 }
+
